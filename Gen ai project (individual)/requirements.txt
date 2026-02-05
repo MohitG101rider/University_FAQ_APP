@@ -1,0 +1,6 @@
+🛠️ REQUIREMENTS - 
+
+- Python 🐍
+- Streamlit 💻
+- Pandas 📊
+- CSV-based dataset 📁
