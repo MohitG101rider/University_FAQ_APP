@@ -1,6 +1,6 @@
-REQUIREMENTS - 
-Streamlit==1.27.0
-Pandas==2.0.3
+streamlit==1.27.0
+pandas==2.0.3
+
 
 
 
