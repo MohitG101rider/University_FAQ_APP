@@ -1,6 +1,7 @@
-🛠️ REQUIREMENTS - 
+REQUIREMENTS - 
 
-- Python 🐍
-- Streamlit 💻
-- Pandas 📊
-- CSV-based dataset 📁
+ Python==3.9
+ Streamlit==1.27.0
+ Pandas==2.0.3
+
+ CSV-based dataset 
